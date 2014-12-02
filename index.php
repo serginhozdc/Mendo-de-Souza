@@ -18,6 +18,28 @@
 
 <body>
 	
+	<!-- TOPO -->
+	<div id="topo">
+		<div id="central">
+			<img src="img/logo_mendo-de-souza.png" alt="Mendo de Souza" class="logo">
+			<nav id="menu">
+				<ul>
+					<li><a href="#">Contato</a></li>
+					<li><a href="#">Publicações</a></li>
+					<li><a href="#">Notícias</a></li>
+					<li><a href="#">Área de Atuação</a></li>
+					<li><a href="#">Advogados</a></li>
+					<li><a href="#">Histórico</a></li>					
+					<li><a href="#">Início</a></li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+
+	<!-- Banner -->
+	<div id="banner">
+		
+	</div>
 
 	
 </body>
